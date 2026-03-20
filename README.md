@@ -4,8 +4,8 @@ A smooth and interactive scroll-based hero section built using modern frontend t
 
 ---
 
-🔗 **Live Website:** [View Project](https://adityakumar747.github.io/scroll-animation-/) <br>
-🔗 **GitHub Repository:** [View Code](https://github.com/Adityakumar747/scroll-animation-)
+🔗 **Live Website:** [View Project](https://scroll-animation-snowy.vercel.app/) <br>
+🔗 **GitHub Repository:** [View Code](https://github.com/Adityakumar747/scroll-animation)
 ---
 
 ## 🎯 Objective
