@@ -6,8 +6,8 @@ A smooth and interactive scroll-based hero section built using modern frontend t
 
 ## 📌 Live Demo
 
-🔗 **Live Website:** https://your-live-link-here  
-🔗 **GitHub Repository:** https://github.com/your-username/your-repo-name  
+🔗 **Live Website:** https://adityakumar747.github.io/scroll-animation-/  
+🔗 **GitHub Repository:** https://github.com/Adityakumar747/scroll-animation-
 
 ---
 
