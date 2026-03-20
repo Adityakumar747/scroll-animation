@@ -1,36 +1,153 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚗 Scroll-Driven Hero Section Animation
 
-## Getting Started
+A smooth and interactive scroll-based hero section built using modern frontend technologies. This project recreates a premium animation experience where elements respond dynamically to user scroll.
 
-First, run the development server:
+---
+
+## 📌 Live Demo
+
+🔗 **Live Website:** https://your-live-link-here  
+🔗 **GitHub Repository:** https://github.com/your-username/your-repo-name  
+
+---
+
+## 🎯 Objective
+
+The goal of this project is to demonstrate strong understanding of:
+
+- Scroll-based animations  
+- Smooth UI interactions  
+- Performance optimization in frontend  
+- Modern web development using Next.js  
+
+---
+
+## ⚙️ Tech Stack
+
+- Next.js  
+- React.js  
+- GSAP (GreenSock Animation Platform)  
+- Tailwind CSS  
+- JavaScript (ES6+)  
+- HTML5 & CSS3  
+
+---
+
+## ✨ Features
+
+### 🟢 Hero Section Layout
+- Full-screen (above-the-fold) hero section  
+- Letter-spaced animated headline:  
+  **W E L C O M E I T Z F I Z Z**  
+- Clean and modern UI design  
+
+### 🟢 Initial Load Animation
+- Smooth fade-in headline animation  
+- Staggered text reveal effect  
+- Sequential appearance of statistics  
+
+### 🟢 Scroll-Based Animation (Core Feature)
+- Animation tied to scroll progress  
+- Main visual element moves dynamically  
+- Smooth interpolation for natural motion  
+
+### 🟢 Performance Optimized
+- Uses transform properties (translate, scale)  
+- Optimized scroll handling  
+- Smooth and lag-free experience  
+
+---
+
+## 📂 Project Structure
+
+```bash
+/project-root
+│── components/
+│   ├── HeroSection.jsx
+│   ├── Stats.jsx
+│
+│── pages/
+│   ├── index.js
+│
+│── public/
+│   ├── images/
+│
+│── styles/
+│   ├── globals.css
+│
+│── package.json
+│── README.md
+```
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+```
+
+### 2. Navigate to the project
+
+```bash
+cd your-repo-name
+```
+
+### 3. Install dependencies
+
+```bash
+npm install
+```
+
+### 4. Run development server
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Now open:  
+👉 http://localhost:3000  
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🎬 Animation Approach
 
-## Learn More
+- Used GSAP for smooth animations  
+- Scroll progress mapped to element movement  
+- Implemented easing for natural feel  
+- Avoided heavy DOM updates for better performance  
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📈 Key Learnings
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- Implementing scroll-driven animations  
+- Improving animation smoothness using GSAP  
+- Handling performance in UI animations  
+- Structuring scalable Next.js projects  
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 📬 Submission Details
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- ✅ Live Project Link: https://your-live-link-here  
+- ✅ GitHub Repository: https://github.com/your-username/your-repo-name  
+
+---
+
+## 🙌 Acknowledgement
+
+Inspired by the reference animation provided in the assignment.
+
+---
+
+## 📧 Contact
+
+Feel free to reach out for feedback or collaboration.
+
+---
+## Author
+Aditya kumar
+⭐ If you like this project, consider giving it a star!
