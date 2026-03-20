@@ -150,4 +150,4 @@ Feel free to reach out for feedback or collaboration.
 ---
 ## Author
 Aditya kumar
-⭐ If you like this project, consider giving it a star!
+
