@@ -2,7 +2,7 @@ import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
     output: "export",
-    basePath: "/REPOSITORY_NAME", // Replace with your repo name!
+    basePath: "/scroll-animation-", // Set to your repository name
     images: {
         unoptimized: true,
     },
