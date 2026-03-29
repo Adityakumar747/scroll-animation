@@ -131,7 +131,7 @@ Now open:
 
 ## 🙌 Acknowledgement
 
-Inspired by the reference animation provided in the assignment.
+Inspired by the reference animation provided by Zulitech
 
 ---
 
